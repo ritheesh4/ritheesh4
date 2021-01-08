@@ -1,2 +1,2 @@
-<img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" height=500 width=600/>
+<img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" height=500 width=1000/>
 
