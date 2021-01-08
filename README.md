@@ -1,2 +1,2 @@
-<img src="https://raw.githubusercontent.com/aagarwal1012/Animated-Text-Kit/master/display/cover.gif" width="1080" height="400" />
+<img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" width="1080" height="400" />
 
