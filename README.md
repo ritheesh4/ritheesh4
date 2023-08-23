@@ -1,2 +1,7 @@
-<img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" height=500 width=1000/>
+Hi there 
 
+This is the place where I opensource stuff and break things 🤣
+
+🔭  I’m currently working on something cool 😉
+🌱  I’m currently learning Flutter, Go
+💬  Ask me about anything related to Javascript/Typescript or /Reat
